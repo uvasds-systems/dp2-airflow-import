@@ -1,4 +1,4 @@
-# Lab 10 - Airflow Practice
+# Data Project 2: Import JSON files into MongoDB using Apache Airflow
 
 Get hands-on experience with Apache Airflow.
 
